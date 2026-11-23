@@ -1,1 +1,1 @@
-print("this is developer A's script")
+print("this is developer 1 script")
